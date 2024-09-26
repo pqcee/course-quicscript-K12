@@ -1,3 +1,12 @@
+# Getting Started (Lecturers)
+
+## Configure Moodle for Github Classroom
+
+1. Enable publishing as an LTI tool in Moodle
+2. Register Github classroom as an external tool
+3. Register your Moodle instance with Github Classroom
+4. Link a Moodle Course with a Classroom or Add a new course in Moodle 
+
 # Introduction to Quantum Gates
 In this course, you will embark on an exciting journey into how to build quantum programs using QuICScript. These fundamental chapters will provide you with a foundation in quantum computing, enabling you to understand and work with quantum gates, qubits, and practical applications.
 
