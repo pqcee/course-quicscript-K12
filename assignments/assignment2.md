@@ -1,6 +1,8 @@
-Assignment 2
-------------
+## Assignment 2
 
-When we input 0,0 into a pair of 2 qubits using XX gates, we obtain the output 1,1. What gates should be used to produce the output 1,1 when the inputs are 0,1? 
+Using 'X' gates, construct the quantum circuit that returns 01 with 100.00% probability.
 
-![Circuit diagram](../demos/fig/assignment2.png)
+<!-- ![Circuit diagram](../demos/fig/assignment2.png) -->
+
+[Internal](https://github.com/pqcee/Quantum-courses/blob/main/lectures/chapter4.md)
+[External](https://quantum.microsoft.com/en-us/insights/education/concepts/single-qubit-gates)

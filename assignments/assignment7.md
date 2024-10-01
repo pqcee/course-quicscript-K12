@@ -1,6 +1,6 @@
-Assignment 7
-------------
+## Assignment 7
 
-In the diagram below, the input is 0 and it undergoes the Pauli-Z gate, along with two additional unknown gates, resulting in the output 0. Can you identify the two unknown gates in the circuit? 
+Using 'H' and 'P' gates, construct the quantum circuit that returns 1 with 100.00% probability.
 
-![Circuit diagram](../demos/fig/assignment7.png)
+[Internal](https://github.com/pqcee/Quantum-courses/blob/main/lectures/chapter9.md)
+[External](https://quantumcomputinguk.org/tutorials/introduction-to-the-s-gate-in-qiskit-with-code)

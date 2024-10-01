@@ -1,4 +1,6 @@
-Assignment 8
--------------
+## Assignment 8
 
-Can you design a quantum circuit for a single qubit that utilizes only the T gate and has the same outcome as that of the P gate? 
+Using the relationship between P and T gates, construct a quantum circuit that returns 1 with 100.00% probability.
+
+[Internal](https://github.com/pqcee/Quantum-courses/blob/main/lectures/chapter10.md)
+[External](https://www.quantum-inspire.com/kbase/t-gate/)

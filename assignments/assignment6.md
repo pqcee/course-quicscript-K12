@@ -1,8 +1,6 @@
-Assignment 6
-------------
+## Assignment 6
 
-The "Bell's Circuit" is often considered the "Hello World" of quantum programming. The diagram below shows the circuit.  
+The "Bell's Circuit" is considered by some to be the "Hello World" of quantum programming. Construct it. What is the output of this circuit?
 
-What is the quantum circuit for this diagram?  
-
-![Circuit diagram](../demos/fig/Bell-circuit.png)
+[Internal](https://github.com/pqcee/Quantum-courses/blob/main/lectures/chapter8.md)
+[External](https://www.quantum-inspire.com/kbase/bell-states/)

@@ -1,4 +1,6 @@
-Assignment 5
--------------
+## Assignment 5
 
-Create a 3-qubit quantum circuit that places qubits 1 and 3 into a superposition state using only the H (Hadamard) and I (Identity) gates.
+Create a quantum circuit that consists of a Hadamard gate and a controlled X gate to entangle two qubits.
+
+[Internal](https://github.com/pqcee/Quantum-courses/blob/main/lectures/chapter7.md)
+[External](https://www.quantum-inspire.com/kbase/hadamard/)

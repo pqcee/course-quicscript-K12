@@ -1,6 +1,6 @@
-Assignment 4
--------------
+## Assignment 4
 
-Can you design a quantum circuit for a single qubit that utilizes only the Pauli-Y gate and has the same outcome as that of an Identity gate? 
+Construct a 1-qubit quantum circuit using only the Pauli-Y gate that produces the same result as an Identity gate.
 
-
+[Internal](https://github.com/pqcee/Quantum-courses/blob/main/lectures/chapter6.md)
+[External](https://quantum.microsoft.com/en-us/insights/education/concepts/single-qubit-gates)
