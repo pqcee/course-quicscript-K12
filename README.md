@@ -1,5 +1,22 @@
 # Getting Started (Lecturers)
 
+## Github Classroom
+
+### Workflow/Stakeholders
+
+- pQCee builds course materials
+- lecturer creates github classroom, uses our template repository, maintains repo, invites TAs & students, creates assignments, manages grading and feedback using GHA, adds students roster via LMS or manual
+- student completes accepts assignment, forks repo, and completes assignments using circuit builder
+
+### How to
+
+1. Create or Set Organisation
+2. Create Classroom
+3. Create Assignment
+4. Assign TAs & Invite students
+5. Clone Repo
+6. Launch Github Pages
+
 ## Configure Moodle for Github Classroom
 
 1. Enable publishing as an LTI tool in Moodle
