@@ -12,26 +12,59 @@
     <h1>Introduction to Quantum Gates</h1>
     <div style="display: flex; align-items: flex-start;">
         <div>
-            <select id="assignment" style="width: 120px;"
-                onchange="document.getElementById('markdown-viewer').src='../Quantum-courses/assignments/assignment' + this.value + '.md'">
+            <select id="assignment" style="width: 120px;">
+            
+                <option value="1">Lecture 1</option>
                 <option value="1">Assignment 1</option>
+                <option value="2">Lecture 2</option>
                 <option value="2">Assignment 2</option>
+                <option value="3">Lecture 3</option>
                 <option value="3">Assignment 3</option>
+                <option value="4">Lecture 4</option>
                 <option value="4">Assignment 4</option>
+                <option value="5">Lecture 5</option>
                 <option value="5">Assignment 5</option>
+                <option value="6">Lecture 6</option>
                 <option value="6">Assignment 6</option>
+                <option value="7">Lecture 7</option>
                 <option value="7">Assignment 7</option>
+                <option value="8">Lecture 8</option>
                 <option value="8">Assignment 8</option>
+                <option value="9">Lecture 9</option>
                 <option value="9">Assignment 9</option>
+                <option value="10">Lecture 10</option>
+                <option value="11">Lecture 11</option>
+                <option value="12">Lecture 12</option>
             </select>
 
-            <zero-md id="markdown-viewer" src="../assignments/assignment1.md"></zero-md>
+            <zero-md id="markdown-viewer" src=""></zero-md>
         </div>
 
         <iframe src="https://pqceequicscriptdev.z23.web.core.windows.net/?qubits=5&columns=10" width="70%" height="500px" 
             style="margin-left: 20px;" allow="fullscreen"></iframe>
     </div>
+    <script>
+        function selectLectureOrAssignment(e) {
+            // console.log("Inside function");
+            const selectedOption = e.target.options[e.target.selectedIndex].text;
+            const firstChar = selectedOption.charAt(0);
+            let type;
+            let parent;
+            if (firstChar === 'L') {
+                parent = 'lectures'
+                type = 'chapter';
+            } else {
+                parent = 'assignments';
+                type = 'assignment';
+            }
+            document.getElementById('markdown-viewer').src = parent + '/' + type + e.target.value + '.md';
+        }
 
+        
+    window.onload = function() {
+        document.getElementById('assignment').addEventListener('change', selectLectureOrAssignment);
+    }
+    </script>
 </body>
 
 </html>
