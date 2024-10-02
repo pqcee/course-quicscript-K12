@@ -4,6 +4,7 @@ Construct a quantum circuit that gives a 50% probability of measuring 00 and 11 
 
 <!-- ![Circuit diagram](../demos/fig/assignment1.png) -->
 
-Reference:
-[Internal](https://github.com/pqcee/Quantum-courses/blob/main/lectures/chapter3.md)
-[External](https://qcve.org/blog/how-to-write-a-quantum-program-for-entangling-qubits)
+References:
+
+- https://github.com/pqcee/Quantum-courses/blob/main/lectures/chapter3.md
+- https://qcve.org/blog/how-to-write-a-quantum-program-for-entangling-qubits

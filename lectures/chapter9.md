@@ -11,3 +11,5 @@ In simpler terms, the P gate leaves the |0⟩ state unchanged and introduces a p
 _Note: The number of qubits required in the circuit for this gate is 1._
 
 The P gate is often used to introduce relative phase differences between the |0⟩ and |1⟩ states. The phase shift gate is used in quantum algorithms such as quantum phase estimation algorithm and the quantum Fourier transform.
+
+Exercise: Assignment 7
