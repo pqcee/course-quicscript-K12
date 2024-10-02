@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduction to Quantum Gates</title>
+    <script type="module" src="https://cdn.jsdelivr.net/npm/zero-md@3?register"></script>
+</head>
+
+<body>
+    <h1>Introduction to Quantum Gates</h1>
+    <div style="display: flex; align-items: flex-start;">
+        <div>
+            <select id="assignment" style="width: 120px;"
+                onchange="document.getElementById('markdown-viewer').src='../assignments/assignment' + this.value + '.md'">
+                <option value="1">Assignment 1</option>
+                <option value="2">Assignment 2</option>
+                <option value="3">Assignment 3</option>
+                <option value="4">Assignment 4</option>
+                <option value="5">Assignment 5</option>
+                <option value="6">Assignment 6</option>
+                <option value="7">Assignment 7</option>
+                <option value="8">Assignment 8</option>
+                <option value="9">Assignment 9</option>
+            </select>
+
+            <zero-md id="markdown-viewer" src="../assignments/assignment1.md"></zero-md>
+        </div>
+
+        <iframe src="https://pqceequicscriptdev.z23.web.core.windows.net/?qubits=5&columns=10" width="70%" height="500px" 
+            style="margin-left: 20px;" allow="fullscreen"></iframe>
+    </div>
+
+</body>
+
+</html>
