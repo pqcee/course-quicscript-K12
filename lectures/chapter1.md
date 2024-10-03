@@ -11,6 +11,6 @@ These vectors are an abstract way to describe the states of a qubit. We can comb
 
 'α' and 'β' are complex numbers. They represent the probability amplitudes of the qubit being in the state |0⟩ and |1⟩, respectively. Qubits can exist in a superposition of these states, where 'α' and 'β' can be both positive and negative. This property allows for quantum interference, a key element in quantum computing's power.
 
-![Bloch Sphere](/figures/bloch_sphere.png)
+![Bloch Sphere](./figures/bloch_sphere.png)
 
 Source: [Research Gate](https://www.researchgate.net/figure/The-Bloch-sphere-provides-a-useful-means-of-visualizing-the-state-of-a-single-qubit-and_fig1_335028508)
