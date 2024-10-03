@@ -4,5 +4,5 @@ Quantum circuit for teleporting a qubit. The two top lines represent Alice’s s
 
 Expected result: 010,100.00%
 
-![Circuit diagram](../demos/fig/assignment9.png)
+![Circuit diagram](/figures/assignment9.png)
 [Source: Nielsen & Chuang book (page 27)](https://www.amazon.sg/dp/1107002176)

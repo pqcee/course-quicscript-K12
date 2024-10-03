@@ -13,6 +13,6 @@ The use of QuICScript allows for efficient description and execution of quantum 
 
 ## Specs
 
-![Specs](../demos/fig/specs.png)
+![Specs](/figures/specs.png)
 
 Exercise: Assignment 9
