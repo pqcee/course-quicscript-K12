@@ -1,4 +1,15 @@
-## Introduction to Quantum Gates
+# Introduction to Quantum Gates (pQCee, October 2024)
+
+This repository contains the course materials for a University level quantum course.
+
+Directory Layout
+
+    ├── assignments             # Exercises
+    ├── figures                 # Images
+    ├── lectures                # Chapters
+    ├── index.html              # QuICScript Builder and Visualizer
+    ├── LICENSE
+    └── README.md
 
 This is a pre-made course presenting an overview of a qubit, quantum gates, quantum circuits, and links students to resources where they can learn more on specific topics. QuICScript, a 20-qubit emulator that runs directly in your browser is used to provide students a quick way to start building quantum circuits. 
 
