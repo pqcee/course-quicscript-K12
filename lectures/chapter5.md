@@ -2,11 +2,11 @@
 
 In QuICScript, we use the letter 'Z' to represent the Pauli-Z gate. The Z-gate is called the phase flip gate. Mathematically, it can be expressed using the matrix below:
 
-![Matrix](./figures/Pauli-Z.png)
+![Matrix](../figures/Pauli-Z.png)
 
 Pauli-Z gate flips the sign of the qubit:
 
-![Linear Algebra](./figures/Pauli-Z2.png)
+![Linear Algebra](../figures/Pauli-Z2.png)
 
 We started with a state of (α|0⟩ + β|1⟩) and ended with a state of (α|0⟩ - β|1⟩). The only difference being the sign.
 
