@@ -1,6 +1,6 @@
 ## Introduction to Quantum Gates
 
-In this course, you will be learning about quantum gates, the fundamental building blocks of quantum circuits or programs. For the assignments, you will be using QuICScript, a 20-qubit emulator that runs directly in your browser.
+This is a pre-made course presenting an overview of a qubit, quantum gates, quantum circuits, and links students to resources where they can learn more on specific topics. QuICScript, a 20-qubit emulator that runs directly in your browser is used to provide students a quick way to start building quantum circuits. 
 
 ## Topics
 
