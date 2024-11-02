@@ -1,9 +1,9 @@
 # Chapter 1: The Qubit
 
 Qubits are the fundamental units of information in quantum computing, analogous to classical bits in classical computing. They can be stored in "quantum memory" and processed by a "quantum processor." In quantum information theory, we abstract qubits for practical programming. But what exactly is a qubit?
-A qubit is like a classical bit, but it can exist in a superposition of both states simultaneously, thanks to the principles of quantum mechanics. Instead of using "0" and "1" to label its two states, we represent them as follows:
+A qubit is like a classical bit, but it can exist in a superposition (Superposition is a quantum principle that refers to a physical system that exists in multiple states simultaneously based on a specific set of solutions). Instead of using "0" and "1" to label its two states, we represent them as follows:
 
-|0⟩ and |1⟩
+|0⟩ and |1> (pronounced as 'ket-zero and ket-one respectively').
 
 These vectors are an abstract way to describe the states of a qubit. We can combine them using linear combinations, introducing coefficients (called amplitudes) like this:
 
