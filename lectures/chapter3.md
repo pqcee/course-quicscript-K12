@@ -1,8 +1,8 @@
 # Chapter 3: The Identity gate ( I )
 
-The simplest possible quantum gate is the 2 x 2 identity gate and it semantically corresponds to the behavior of the identity gate in classical computing. The Identity gate is like the "do nothing" gate, it doesn't change the qubit at all. Imagine if you had a magic spell that said, "Stay the same!" That's what the Identity gate does.
+The simplest possible quantum gate is the 2 x 2 identity gate and it semantically corresponds to the behavior of the identity gate in classical computing. The Identity gate is like the "do nothing" gate, it doesn't change the qubit at all.
 
-Given that it is two dimensional, in linear algebra it is often denoted with 'I2,' while in quantum mechanics it is sometimes marked as '1.' In quantum computing, however, we normally just use the letter 'I' to represent the identity gate. Mathematically it can be expressed using the matrix below:
+In quantum computing, we represent the identity gate using the letter 'I'. Mathematically, it can be expressed using the matrix below:
 
 ![Matrix](../figures/Identity_matrix.png)
 
