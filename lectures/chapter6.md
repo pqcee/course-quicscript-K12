@@ -2,7 +2,6 @@
 
 The matrix representation of a Pauli Y gate applied to a single qubit is 
 
-
 ![Matrix](../figures/Pauli-Y.png)
 
 The Y-gate is both a bit flip gate and phase flip gate. It swaps the amplitudes and changes the sign at the same time for both |0⟩ and |1⟩.
