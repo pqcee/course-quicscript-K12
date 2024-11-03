@@ -1,6 +1,7 @@
 # Chapter 6: The Pauli-Y gate
 
-In QuICScript, we use the letter 'Y' to represent the Pauli-Y gate, mathematically it can be expressed using the matrix below:
+The matrix representation of a Pauli Y gate applied to a single qubit is 
+
 
 ![Matrix](../figures/Pauli-Y.png)
 
