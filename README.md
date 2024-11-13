@@ -30,5 +30,5 @@ This is a pre-made course presenting an overview of a qubit, quantum gates, quan
 
 ## Resources
 
-- [Link to complete assignments](https://pqcee.github.io/course-quicscript-secondary/)
+- [Link to complete assignments](https://pqcee.github.io/course-quicscript-K12/)
 - [Documentation](https://pqcee.github.io/QuICScript-manual/)
