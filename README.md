@@ -1,6 +1,6 @@
 # Introduction to Quantum Gates (pQCee, October 2024)
 
-This repository contains the course materials for a secondary-level quantum course.
+This repository contains the Course Materials for K12 Level Quantum Course (Ages 9 to High School).
 
 Directory Layout
 
